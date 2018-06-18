@@ -1,0 +1,12 @@
+.name {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJzxdtA1EfPWMa7KY0LNQt0ow4ytc6MUf3coNDXGKII7NIdfU")
+}
+#game{
+    background-color: white;
+    text-align: center;
+}
